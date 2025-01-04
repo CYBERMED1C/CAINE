@@ -44,3 +44,86 @@ CAINE is a Linux-based live distribution designed for digital forensics and inci
 
 CAINE is an invaluable tool for digital forensic investigations, offering a user-friendly interface and a comprehensive set of tools for forensic analysis. Use the resources above to get started and deepen your expertise.  
 
+# CAINE Tools and Guides  
+
+CAINE (Computer Aided INvestigative Environment) is a comprehensive forensic platform with various tools designed to assist in digital forensic investigations. Below is a list of tools included in CAINE, along with relevant guides and tutorials.
+
+---
+
+## 1. [Autopsy](https://www.sleuthkit.org/autopsy/)
+
+Autopsy is a graphical interface for The Sleuth Kit, used for analyzing hard drives and smartphones, recovering files, conducting email analysis, and creating timelines.
+
+- **Official Website:** [Autopsy](https://www.sleuthkit.org/autopsy/)
+- **Tutorial:** [CAINE - 03 - Autopsy Basics Tutorial](https://www.youtube.com/watch?v=c9FmlfMGjQI)
+
+---
+
+## 2. [The Sleuth Kit (TSK)](https://www.sleuthkit.org/sleuthkit/)
+
+The Sleuth Kit is a collection of command-line tools for analyzing disk images and recovering files.
+
+- **Official Website:** [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/)
+- **User Guide:** [TSK Documentation](https://www.sleuthkit.org/sleuthkit/docs.php)
+
+---
+
+## 3. [Guymager](https://guymager.sourceforge.io/)
+
+Guymager is a fast, user-friendly forensic imaging tool used for media acquisition.
+
+- **Official Website:** [Guymager](https://guymager.sourceforge.io/)
+- **Tutorial:** [CAINE - 02 - Forensic Imaging and Cloning Using Guymager](https://www.youtube.com/watch?v=FoEO9p-J15w)
+
+---
+
+## 4. [Wireshark](https://www.wireshark.org/)
+
+Wireshark is a network protocol analyzer that captures and interactively analyzes network traffic.
+
+- **Official Website:** [Wireshark](https://www.wireshark.org/)
+- **User Guide:** [Wireshark User's Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
+
+---
+
+## 5. [RegRipper](https://github.com/keydet89/RegRipper3.0)
+
+RegRipper is a tool for extracting and correlating Windows Registry data.
+
+- **Official Website:** [RegRipper](https://github.com/keydet89/RegRipper3.0)
+- **Guide:** [RegRipper Documentation](https://github.com/keydet89/RegRipper3.0/blob/master/README.md)
+
+---
+
+## 6. [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+
+PhotoRec is a file recovery tool designed to recover lost files from hard drives, CDs, digital cameras, and memory cards.
+
+- **Official Website:** [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+- **Step-by-Step Guide:** [How to Recover Files Using PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec_Step_By_Step)
+
+---
+
+## 7. [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak)
+
+Tinfoleak is an open-source tool for Twitter intelligence analysis.
+
+- **Official Website:** [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak)
+- **Guide:** [Tinfoleak Documentation](https://github.com/vaguileradiaz/tinfoleak/blob/master/README.md)
+
+---
+
+## 8. [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2)
+
+FTK Imager is a tool for data preview and imaging, enabling the examination of local hard drives, network drives, CDs/DVDs, and flash drives.
+
+- **Official Website:** [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2)
+- **Tutorial:** [CAINE - 11 - FTK Imager - Data Preview and Imaging](https://www.youtube.com/watch?v=5S-oCypcyxc)
+
+---
+
+## Conclusion  
+
+These tools integrated into CAINE provide a wide range of functionality for digital forensic investigations. To learn more, visit the [CAINE Official Website](https://www.caine-live.net/) for updates and additional documentation.
+
+
